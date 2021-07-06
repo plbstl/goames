@@ -9,3 +9,9 @@ Using go get:
 ```sh
 go get -u github.com/paulebose/goames
 ```
+
+## Games
+
+Game | Command
+--- | ---
+Tic Tac Toe | ttt
